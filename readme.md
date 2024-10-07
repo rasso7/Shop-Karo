@@ -4,7 +4,7 @@
 
 
 ## This is preview
-<img src="" width="900">
+<img src="/screen.jpg" width="900">
 
 
 ## ShopKaro
