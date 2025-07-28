@@ -1,10 +1,8 @@
 # ShopKaro App
 [Live](https://shop-karo-cklt.onrender.com)
 
-
-
 ## This is preview
-<img src="/screen.jpg" width="900">
+<img src="/Shopkaro.png" width="900">
 
 
 ## ShopKaro
